@@ -22,4 +22,7 @@
 <img width="809" alt="TSLA 1" src="https://github.com/user-attachments/assets/4811c629-d5d2-4bb2-9255-6ca48df5da7e" />
 
 - Tesla made over 1107% return for an investor that invested in the stock in 2000, compared to an investor who decided to invest in Tesla major competitors General Motors and Ford which will earn the investor 38.16% and 44.07% return on investment respectively. This implies risk tolerant investors who are likely to take a calculated risk on identifed value stocks that are unicorn will likely increase their wealth over a short term horizon than risk averse investors who seeks stability.
-<img width="463" alt="TSLA 3" src="https://github.com/user-attachments/assets/735b8adf-121c-4356-a079-63c4b019bbc3" />  <img width="625" alt="TSLA 2" src="https://github.com/user-attachments/assets/3b4fafbd-dd5a-48d4-a2e1-76fc81f1a54d" />
+
+<img width="463" alt="TSLA 3" src="https://github.com/user-attachments/assets/735b8adf-121c-4356-a079-63c4b019bbc3" />
+
+<img width="625" alt="TSLA 2" src="https://github.com/user-attachments/assets/3b4fafbd-dd5a-48d4-a2e1-76fc81f1a54d" />
